@@ -76,6 +76,9 @@ nav a:hover{
     margin-top: 10px;
 
 }
+.contacto{
+    margin-left: 1em;
+}
 footer{
     text-align: center;
     background-image: url(../imagenes/bg.jpg);
